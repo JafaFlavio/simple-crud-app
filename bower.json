@@ -1,0 +1,10 @@
+{
+  "name": "simple-crud-app",
+  "description": "",
+  "main": "server/bin/www.js",
+  "authors": [
+    "Flavio Jafa <flavio.jafa@outlook.com>"
+  ],
+  "license": "ISC",
+  "homepage": ""
+}
